@@ -1,3 +1,3 @@
 # [Sample Repo] PR Practice
 A sample repo for practicing how to create Pull Requests
-hihi
+This repo can be used to practice creating PRs.
